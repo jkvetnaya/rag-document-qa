@@ -1,0 +1,7 @@
+Vector search, also known as semantic search, finds similar documents by comparing 
+their vector representations using metrics like cosine similarity. Unlike traditional 
+keyword search, vector search can find conceptually similar content even when exact 
+words don't match.
+
+Key concepts include similarity thresholds, top-k retrieval, and ranking algorithms. 
+The quality of embeddings directly impacts search effectiveness.

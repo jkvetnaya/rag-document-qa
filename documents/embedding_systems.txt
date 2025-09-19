@@ -1,0 +1,11 @@
+Embedding systems convert text into numerical vectors that capture semantic meaning. 
+There are different approaches to creating embeddings:
+
+1. TF-IDF (Term Frequency-Inverse Document Frequency): A traditional approach that 
+   represents documents based on word frequency and rarity.
+
+2. Dense embeddings: Modern approaches like OpenAI's text-embedding models create 
+   dense vector representations that capture deeper semantic relationships.
+
+The choice of embedding system affects the quality of retrieval and the overall 
+performance of the RAG system.

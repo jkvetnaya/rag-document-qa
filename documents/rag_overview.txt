@@ -1,0 +1,8 @@
+Retrieval Augmented Generation (RAG) is a technique that combines the power of 
+large language models with external knowledge sources. RAG systems work by first 
+retrieving relevant information from a knowledge base, then using that information 
+to generate more accurate and contextual responses.
+
+The key components of a RAG system include document ingestion, text chunking, 
+embedding creation, vector storage, similarity search, and answer generation. 
+This approach helps reduce hallucinations and provides more factual responses.
