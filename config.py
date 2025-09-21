@@ -19,7 +19,7 @@ class Config:
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
     
     # Retrieval settings
-    TOP_K_CHUNKS = 3
+    TOP_K_CHUNKS = 5 
     SIMILARITY_THRESHOLD = 0.1
     
     # TF-IDF settings (fallback)
